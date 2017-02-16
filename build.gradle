@@ -35,5 +35,5 @@ dependencies {
     runtime "org.jetbrains.ktor:ktor-jetty:$ktor_version"
 }
 
-task stage(dependsOn: ['run', 'clean'])
+task stage(dependsOn: ['build', 'clean'])
 build.mustRunAfter clean
