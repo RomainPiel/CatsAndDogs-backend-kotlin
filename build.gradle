@@ -34,3 +34,6 @@ dependencies {
     compile "org.jetbrains.ktor:ktor-locations:$ktor_version"
     runtime "org.jetbrains.ktor:ktor-jetty:$ktor_version"
 }
+
+task stage(dependsOn: ['build', 'clean'])
+build.mustRunAfter clean
