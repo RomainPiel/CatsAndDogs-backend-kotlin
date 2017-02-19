@@ -37,4 +37,4 @@ task copyToLib(type: Copy) {
 task stage(dependsOn: ['build', 'clean', 'copyToLib'])
 build.mustRunAfter clean
 
-mainClassName = "com.romainpiel.catsanddogs.Main"
+mainClassName = "com.romainpiel.catsanddogs.MainKt"

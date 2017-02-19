@@ -1,13 +1,11 @@
 package com.romainpiel.catsanddogs
 
-import spark.Spark.*
+import spark.Spark.get
+import spark.Spark.port
+import java.lang.System.getenv
 
 
-object Main {
-    @JvmStatic fun main(args: Array<String>) {
-        System.getenv("PORT")?.let {
-            port(it.toInt())
-        }
-        get("/") { req, res -> "Cats And Dogs - Kotlin - Server Says Hello" }
-    }
+fun main(args: Array<String>) {
+    getenv("PORT")?.let { port(it.toInt()) }
+    get("/") { req, res -> "Cats And Dogs - Kotlin - Server Says Hello" }
 }
