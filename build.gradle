@@ -3,7 +3,6 @@ version '1.0-SNAPSHOT'
 
 buildscript {
     ext.kotlin_version = '1.0.5'
-    ext.ktor_version = '0.2.4'
 
     repositories {
         mavenCentral()
@@ -21,19 +20,21 @@ repositories {
     maven {
         url 'http://dl.bintray.com/kotlin/kotlinx.support'
     }
-    maven {
-        url 'http://dl.bintray.com/kotlin/ktor'
-    }
 }
-
-mainClassName = 'org.jetbrains.ktor.jetty.DevelopmentHost'
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
-    compile "org.jetbrains.ktor:ktor-core:$ktor_version"
-    compile "org.jetbrains.ktor:ktor-locations:$ktor_version"
-    runtime "org.jetbrains.ktor:ktor-jetty:$ktor_version"
+    compile 'com.sparkjava:spark-core:2.5.5'
+    compile 'org.slf4j:slf4j-simple:1.7.13'
 }
 
-task stage(dependsOn: ['build', 'clean'])
+
+task copyToLib(type: Copy) {
+    into "$buildDir/libs"
+    from(configurations.compile)
+}
+
+task stage(dependsOn: ['build', 'clean', 'copyToLib'])
 build.mustRunAfter clean
+
+mainClassName = "com.romainpiel.catsanddogs.Main"

@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -jar build/libs/catsanddogs-1.0-SNAPSHOT.jar
+web: java $JAVA_OPTS -cp build/classes/*:build/libs/* com.romainpiel.catsanddogs.Main
