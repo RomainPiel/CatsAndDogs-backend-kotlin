@@ -8,6 +8,6 @@ object Main {
         System.getenv("PORT")?.let {
             port(it.toInt())
         }
-        get("/") { req, res -> "Hello World!" }
+        get("/") { req, res -> "Cats And Dogs - Kotlin - Server Says Hello" }
     }
 }
