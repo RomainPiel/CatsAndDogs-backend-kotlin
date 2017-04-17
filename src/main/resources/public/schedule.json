@@ -1,15 +1,296 @@
 {
-  "event": {
-    "speakers": [
-      {
-        "name":"Michael May",
-        "company":"wrisk"
-      },
-      {
-        "name":"Romain Piel",
-        "company":"Deliveroo"
-      }
-    ],
-    "title": "mce^4"
-  }
+  "schedule": [
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 08:00:00 GMT",
+      "title": "We are counting on you",
+      "track": "Engineering",
+      "speaker": [
+        "Jeff Watkins"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 08:00:00 GMT",
+      "title": "Positive Design. Look out got the gorilla!",
+      "track": "Design",
+      "speaker": [
+        "Anna Pohlmeyer"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 08:00:00 GMT",
+      "title": "Apps for Africa - creating real impact!",
+      "track": "Engineering",
+      "speaker": [
+        "Stefan Zelazny"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 09:00:00 GMT",
+      "title": "#SUX: Some Users' Experience",
+      "track": "Design",
+      "speaker": [
+        "Bill Gregory"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 09:00:00 GMT",
+      "title": "Hidden mysteries behind big code cases (lessons learned)",
+      "track": "Engineering",
+      "speaker": [
+        "Fernando Cejas"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 09:00:00 GMT",
+      "title": "10 Years of iPhone",
+      "track": "Engineering",
+      "speaker": [
+        "Adrian Kosmaczewski"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 10:00:00 GMT",
+      "title": "The Power of Making Your App Accessible",
+      "track": "Engineering",
+      "speaker": [
+        "Matthias Tretter"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 10:00:00 GMT",
+      "title": "Object-Orientated UX: Designing your Users's Real World Mental Models",
+      "track": "Design",
+      "speaker": [
+        "Sophia Voychehovski"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 10:00:00 GMT",
+      "title": "Making Debug Builds Testable and Fun",
+      "track": "Engineering",
+      "speaker": [
+        "Eric Cochran"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 13:00:00 GMT",
+      "title": "Experience Design: What is it, Why it's important for Design and Business. Plus, Some Examples.",
+      "track": "Design",
+      "speaker": [
+        "David Lipkin"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 13:00:00 GMT",
+      "title": "Seamless Linking To Your App",
+      "track": "Engineering",
+      "speaker": [
+        "Cyril Mottier"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 13:00:00 GMT",
+      "title": "Swift Scripting in practice",
+      "track": "Engineering",
+      "speaker": [
+        "John Sundell"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 14:00:00 GMT",
+      "title": "Cats and Dogs (lessons learned from working together as an iOS and Android team)",
+      "track": "Engineering",
+      "speaker": [
+        "Michaek May",
+        "Romain Piel"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 14:00:00 GMT",
+      "title": "Designing the Future Reading Experience (TX)",
+      "track": "Design",
+      "speaker": [
+        "Hilary Kenna"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 14:00:00 GMT",
+      "title": "Humans at the heart of digital",
+      "track": "Design",
+      "speaker": [
+        "Ashley Benigno"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 15:00:00 GMT",
+      "title": "Design and Innovation in Healthcare",
+      "track": "Design",
+      "speaker": [
+        "Siri Betts-Sonstegard"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 15:00:00 GMT",
+      "title": "Designing products, designing platforms",
+      "track": "Design",
+      "speaker": [
+        "Edward O'Riordan"
+      ]
+    },
+    {
+      "datestamp": "poniedziaÅ‚ek, 8 maja 2017 15:00:00 GMT",
+      "title": "Getting Clean, Keeping Lean",
+      "track": "Engineering",
+      "speaker": [
+        "Joe Birch"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 08:00:00 GMT",
+      "title": "Coroutines in Kotlin",
+      "track": "Engineering",
+      "speaker": [
+        "Svetlana Isakova"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 08:00:00 GMT",
+      "title": "Humansing technology to improve customer experience",
+      "track": "Design",
+      "speaker": [
+        "Eric Roscam Abbing",
+        "Flaminia Del Conte"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 08:00:00 GMT",
+      "title": "Elm Architecture in Swift",
+      "track": "Engineering",
+      "speaker": [
+        "Yasuhiro Inami"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 09:00:00 GMT",
+      "title": "The Greatest Invention since the Braille",
+      "track": "Design",
+      "speaker": [
+        "Jacek ZadroÅ¼ny"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 09:00:00 GMT",
+      "title": "Introduction to Virtual Reality Development with Unity",
+      "track": "Engineering",
+      "speaker": [
+        "Dale Knauss"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 09:00:00 GMT",
+      "title": "TDB",
+      "track": "Design",
+      "speaker": [
+        "Alexander Steinhard"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 10:00:00 GMT",
+      "title": "Deep Android Integrations",
+      "track": "Engineering",
+      "speaker": [
+        "Ty Smith"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 10:00:00 GMT",
+      "title": "Designing AI Personality",
+      "track": "Design",
+      "speaker": [
+        "Magdalena Paluch"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 10:00:00 GMT",
+      "title": "The Art Of Stealing",
+      "track": "Engineering",
+      "speaker": [
+        "Benjamin Enca"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 13:00:00 GMT",
+      "title": "Mixed Reality for Social Good",
+      "track": "Engineering",
+      "speaker": [
+        "Etienne Caron"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 13:00:00 GMT",
+      "title": "Mobile Apps and Nonprofits: Keys to successful Partnerships",
+      "track": "Design",
+      "speaker": [
+        "Bill Maurer"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 13:00:00 GMT",
+      "title": "Designing our civic life: Can paying taxes be engaging or even delightful?",
+      "track": "Engineering",
+      "speaker": [
+        "Whitney Quesenbery"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 14:00:00 GMT",
+      "title": "TBC",
+      "track": "None",
+      "speaker": [
+        "TBC"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 14:00:00 GMT",
+      "title": "Beyond Design: Inclusion",
+      "track": "Design",
+      "speaker": [
+        "JoÃ«l Schillo",
+        "Oliver Jeannel"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 14:00:00 GMT",
+      "title": "GlueKit: Reactive Collections in Swift",
+      "track": "Engineering",
+      "speaker": [
+        "KÃ¡roly LÅ‘rentey"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 15:00:00 GMT",
+      "title": "VR Design and Prototyping",
+      "track": "Design",
+      "speaker": [
+        "Manuel ClÃ©ment"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 15:00:00 GMT",
+      "title": "Helping users create good habits",
+      "track": "Engineering",
+      "speaker": [
+        "Sally Shepherd"
+      ]
+    },
+    {
+      "datestamp": "wtorek, 9 maja 2017 15:00:00 GMT",
+      "title": "Technology is about humans. Involve them! But donâ€™t spend too much effort on itâ€¦",
+      "track": "Engineering",
+      "speaker": [
+        "Lena Egede"
+      ]
+    }
+  ],
+  "title": "MCE^4"
 }
