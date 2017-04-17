@@ -1,5 +1,6 @@
 # CatsAndDogs-kotlin-server
 A bare bones Kotlin Web Service using Spark framework for the Cats And Dogs Talk
+This is the backend layer, exposed as a data layer to the [backend for frontend](https://github.com/RomainPiel/CatsAndDogs-kotlin-bff).
 
 ## How to set up the dev environment
 
