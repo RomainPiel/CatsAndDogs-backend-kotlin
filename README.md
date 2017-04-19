@@ -1,4 +1,4 @@
-# CatsAndDogs-kotlin-server
+# CatsAndDogs Talk: Kotlin Server
 A bare bones Kotlin Web Service using Spark framework for the Cats And Dogs Talk
 This is the backend layer, exposed as a data layer to the [backend for frontend](https://github.com/RomainPiel/CatsAndDogs-kotlin-bff).
 
@@ -20,3 +20,10 @@ heroku local web
 ```
 
 Then in your browser, open http://localhost:5000
+
+## Other Components
+https://github.com/RomainPiel/CatsAndDogs-kotlin-bff
+https://github.com/michael-r-may/CatsAndDogs-Swift-Server
+https://github.com/michael-r-may/CatsAndDogsiOS
+https://github.com/RomainPiel/CatsAndDogs-Android
+https://github.com/RomainPiel/CatsAndDogs-kotlin-server
