@@ -27,3 +27,8 @@ Then in your browser, open http://localhost:5000
 * https://github.com/michael-r-may/CatsAndDogsiOS
 * https://github.com/RomainPiel/CatsAndDogs-Android
 * https://github.com/RomainPiel/CatsAndDogs-kotlin-server
+
+## Useful Links
+* http://kotlinlang.org
+* http://swift.org
+* http://samnewman.io/patterns/architectural/bff/
