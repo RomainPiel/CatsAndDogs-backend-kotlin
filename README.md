@@ -22,8 +22,8 @@ heroku local web
 Then in your browser, open http://localhost:5000
 
 ## Other Components
-https://github.com/RomainPiel/CatsAndDogs-kotlin-bff
-https://github.com/michael-r-may/CatsAndDogs-Swift-Server
-https://github.com/michael-r-may/CatsAndDogsiOS
-https://github.com/RomainPiel/CatsAndDogs-Android
-https://github.com/RomainPiel/CatsAndDogs-kotlin-server
+* https://github.com/RomainPiel/CatsAndDogs-kotlin-bff
+* https://github.com/michael-r-may/CatsAndDogs-Swift-Server
+* https://github.com/michael-r-may/CatsAndDogsiOS
+* https://github.com/RomainPiel/CatsAndDogs-Android
+* https://github.com/RomainPiel/CatsAndDogs-kotlin-server
